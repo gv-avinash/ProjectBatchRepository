@@ -64,8 +64,8 @@ public class Module1 extends BaseClass
 		contactdetails.clickOnEdit();
 		contactdetails.setAddressStreet1("balaji Residencncy");
 		contactdetails.setAddressStreet2("KPHB");
-		contactdetails.setContactCity("Hyderabad");
-		contactdetails.setStateOrProvince("Telangana");
+		contactdetails.setContactCity("jhgfkjshgfj");
+		contactdetails.setStateOrProvince("dvdbdbdnd");
 		contactdetails.setZipCode("500081");
 		contactdetails.selectCountry("India");
 		contactdetails.setHomeTelephone("9874563388");
